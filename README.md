@@ -10,5 +10,5 @@ Bogotá Colombia
 
 Repositorios
 ----------------------------------------------------------------------------------------------------------------------------
-Programación Avanzada: C++, JavA
+Programación Avanzada: C++, Java
  
